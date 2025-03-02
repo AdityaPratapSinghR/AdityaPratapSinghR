@@ -1,4 +1,6 @@
 ## Hi there 👋
+# I am Aditya Pratap Singh.
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaPratapSinghR)](https://github.com/AdityaPratapSinghR/github-readme-stats)
 
 <!--
 **AdityaPratapSinghR/AdityaPratapSinghR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
